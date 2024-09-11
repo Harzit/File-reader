@@ -1,0 +1,11 @@
+This is 
+read by CLI,
+then
+after reading this file
+It will tell 
+the number
+of
+lines
+present
+in this file
+
